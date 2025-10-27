@@ -18,6 +18,13 @@ ul {
 }
 
 /* Navbar start */
+nav .toggleBtn {
+  outline: none !important;
+  box-shadow: none !important;
+  border: 1px solid #353535;
+  color: #353535;
+  background: transparent;
+}
 .navbar-nav .nav-link {
   font-family: var(--font-family);
   font-weight: 500;
