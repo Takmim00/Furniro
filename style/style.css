@@ -92,6 +92,37 @@ ul {
   color: #fff;
   margin-top: 40px;
 }
+/* Range start */
+#range {
+  padding: 60px 0;
+  text-align: center;
+}
+
+#range h2 {
+  font-family: var(--font-family);
+  font-weight: 700;
+  font-size: 32px;
+  color: #333;
+}
+
+#range p {
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 20px;
+  text-align: center;
+  color: #666;
+}
+.rangeCard{
+  margin-top: 40px;
+}
+.rangeCard h5 {
+  font-family: var(--font-family);
+  font-weight: 600;
+  font-size: 24px;
+  text-align: center;
+  color: #333;
+  margin-top: 20px;
+}
 
 /* responsive */
 @media (max-width: 992px) {
